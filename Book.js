@@ -26,7 +26,7 @@ export const books = [
 new Book('Things Fall Apart', 'Chinua Achebe', 'how a young man fell apart', 350, 300),
 new Book('There was a Country', 'Chinua Achebe', 'a personal story of Biafra', 350, 350),
 new Book('Mopping the Wet Floor while Overlooking The Leaking Roof', 'Ibaba S. Ibaba', 'A story of Niger Delta', 150, 50),
-new Book('How was Underdeveloped', 'Walter Rodney', 'a personal story of Africa underdevelopment', 400, 350),
+new Book('How was Underdeveloped', 'Walter Rodney', 'A story of Africa underdevelopment', 400, 350),
 new Book('Digital Economy', 'Omojuwa', 'Create wealth', 200, 100)
 ]
 
